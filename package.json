@@ -6,7 +6,11 @@
   "description": "A know-it-all",
   "dependencies": {
     "hubot": "^2.11.0",
+    "hubot-cute-me": "^1.0.0",
+    "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
+    "hubot-factoids": "^0.2.4",
+    "hubot-giphy-gifme": "^0.1.2",
     "hubot-google-images": "^0.1.2",
     "hubot-google-translate": "^0.1.0",
     "hubot-groupme": "^1.0.0",
@@ -18,6 +22,9 @@
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.1",
+    "hubot-subreddit-linker": "^1.1.0",
+    "hubot-thank-you": "0.0.3",
+    "hubot-wolfram": "^1.0.7",
     "hubot-youtube": "^0.1.2"
   },
   "engines": {

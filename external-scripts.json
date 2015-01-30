@@ -4,10 +4,15 @@
   "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-google-translate",
-  "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit",
-  "hubot-youtube"
+  "hubot-youtube",
+  "hubot-subreddit-linker",
+  "hubot-giphy-gifme",
+  "hubot-wolfram",
+  "hubot-thank-you",
+  "hubot-darksky",
+  "hubot-factoids",
+  "hubot-cute-me"
 ]
