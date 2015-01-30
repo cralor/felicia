@@ -2,8 +2,8 @@
   "name": "felicia",
   "version": "0.0.0",
   "private": true,
-  "author": "cralor <cralor@gmail.com>",
-  "description": "A simple helpful robot",
+  "author": "Chris",
+  "description": "A know-it-all",
   "dependencies": {
     "hubot": "^2.11.0",
     "hubot-diagnostics": "0.0.1",
