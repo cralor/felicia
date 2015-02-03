@@ -1,1 +1,1 @@
-web: bin/hubot -a groupme -n felicia
+web: bin/hubot -a groupme -n fred
