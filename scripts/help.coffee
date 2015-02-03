@@ -85,5 +85,5 @@ module.exports = (robot) ->
 
         emit = emit.replace /hubot/ig, "<b>#{robot.name}</b>"
 
-    res.setHeader 'content-type', 'text/html'
-    res.end helpContents robot.name, emit
+        res.setHeader 'content-type', 'text/html'
+        res.end helpContents robot.name, emit
