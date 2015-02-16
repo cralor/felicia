@@ -17,7 +17,6 @@
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-in-space": "^2.0.0",
     "hubot-javascript": "0.0.7",
-    "hubot-quote": "^3.0.0",
     "hubot-redis-brain": "0.0.2",
     "hubot-scripts": "^2.5.16",
     "hubot-self-uptime": "0.0.3",
