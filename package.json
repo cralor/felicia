@@ -10,7 +10,6 @@
     "hubot-diagnostics": "0.0.1",
     "hubot-factoids": "^0.2.4",
     "hubot-forecastio": "^1.1.0",
-    "hubot-giphy-gifme": "^0.1.2",
     "hubot-google-images": "^0.1.2",
     "hubot-groupme": "^1.0.0",
     "hubot-help": "^0.1.1",
