@@ -8,7 +8,7 @@ module.exports = (robot) ->
       msg.send "#{result}"
 
 metarMe = (msg, query, callback) ->
-  msg.http("http://weather.noaa.gov/pub/data/observations/metar/stations/#{escape(query)}.TXT")
+  msg.http("http://tgftp.nws.noaa.gov/data/observations/metar/stations/#{escape(query)}.TXT")
     .get() (err, res, body) ->
       if !err && res.statusCode == 200
         callback(true, body)
