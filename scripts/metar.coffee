@@ -1,6 +1,6 @@
 module.exports = (robot) ->
 
-  robot.respond /metar ?me ([K].{3})/i, (msg) ->
+  robot.respond /metar ?me (.{4})/i, (msg) ->
     metarMe msg, msg.match[1], (found, result) ->
       if !found
         msg.send "I don't know what \"#{msg.match[1]}\" is"
